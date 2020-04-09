@@ -12,7 +12,7 @@
 		<setters>
 			<set name="abbreviation">CAMP</set>
 			<set name="url">https://github.com/nemthe/dnd-campaign</set>
-			<set name="author" abbreviation="MARO"">Max Rott</set>
+			<set name="author" abbreviation="MARO">Max Rott</set>
 			<set name="official">false</set>
 			<set name="core">false</set>
 			<set name="release">20200409</set>
