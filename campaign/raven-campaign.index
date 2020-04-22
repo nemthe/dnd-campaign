@@ -5,11 +5,11 @@
 		<description>Alles an Custom Content, den ich für die Kampange 'Im Schatten des Raben' erstellt habe</description>
 		<author>Maximilian Rott</author>
 		<update version="0.1">
-			<file name="raven-campaign.index" url="https://raw.githubusercontent.com/dnd-campaign/master/campaign/raven-campaign.index" />
+			<file name="raven-campaign.index" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign.index" />
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/dnd-campaign/master/campaign/raven-campaign/sources.xml" />
-		<file name="items.xml" url="https://raw.githubusercontent.com/dnd-campaign/master/campaign/raven-campaign/items.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign/sources.xml" />
+		<file name="items.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign/items.xml" />
 	</files>
 </index>
