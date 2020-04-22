@@ -5,7 +5,7 @@
 			<file name="sources.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign/source.xml" />
 		</update>
 	</info>
-	<element name="Im Schatten des Raben Campaign Sources" type="Source" source="campaign" id="ID_RAVEN_CAMPAIGN">
+	<element name="Im Schatten des Raben" type="Source" source="campaign" id="ID_RAVEN_CAMPAIGN">
 		<description>
 			<![CDATA[<p><strong>Alle Custom Items, die ich im Rahmen von der Kampagne 'Im Schatten des Raben' ausgebe oder verwende</strong></p>]]>
 		</description>
