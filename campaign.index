@@ -5,11 +5,10 @@
 		<description></description>
 		<author>Max Rott</author>
 		<update version="0.0.1">
-			<file name="guildmasters-guide-to-ravnica.index" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/raven-campaign/campaign.index" />
+			<file name="campaigns.index" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/campaign.index" />
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/raven-campaign/campaign/source.xml" />
-		<file name="items.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/raven-campaign/campaign/items.xml" />
+		<file name="raven-campaign.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/campaign/raven-campaign.xml" />
 	</files>
 </index>
