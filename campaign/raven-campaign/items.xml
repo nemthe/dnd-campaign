@@ -6,27 +6,19 @@
             <file name="items.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign/items.xml" />
         </update>
     </info>
-	<element name="Folding Raven Plate" type="Magic Item" source="Im Schatten des Raben" id="ID_FOLDING_PLATE">
+	<element name="Folding Raven Armor" type="Magic Item" source="Im Schatten des Raben" id="ID_FOLDING_PLATE">
 		<description>
 			<p>This suit of armor is only granted to the champions of the Raven Queen, serving in her name. This heavy plate armor has an intricate emblem on its chest piece, resembling the insignia of the Raven Queen. As an action, the wearer can touch the emblem with a silent prayer to the deity to instantly don or doff the armor each once per day. The armor can only be worn by someone with the blessing of the Raven Queen or suffer 1d6 necrotic damage per turn that the armor is worn.</p>
 		</description>
-		<setters>		
-			<set name="keywords">heavy</set>
+		<setters>
 			<set name="category">Magic Armor</set>
 			<set name="cost" currency="gp">0</set>
-			<set name="weight" lb="0">65 lb.</set>
 			<set name="slot">body</set>
+			<set name="type" addition="light, medium, or heavy">Armor</set>
 			<set name="rarity">Rare</set>
-			<set name="armor">Heavy</set>
-			<set name="armorClass">18</set>
-			<set name="strength">15</set>
-			<set name="stealth">Disadvantage</set>
-			<set name="proficiency">ID_PROFICIENCY_ARMOR_PROFICIENCY_PLATE</set>
+			<set name="enhancement">1</set>
+			<set name="armor">ID_INTERNAL_ARMOR_GROUP_LIGHT|ID_INTERNAL_ARMOR_GROUP_MEDIUM|ID_INTERNAL_ARMOR_GROUP_HEAVY</set>
+			<set name="name-format">Folding Raven {{parent}}</set>
 		</setters>
-		<rules>
-			<grant type="Grants" id="ID_INTERNAL_GRANTS_STEALTH_DISADVANTAGE" />
-			<stat name="ac:armored:armor" value="18" />
-			<stat name="speed" value="-10" bonus="armor" requirements="![str:15]" />
-		</rules>
 	</element>
 </elements>

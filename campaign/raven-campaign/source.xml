@@ -10,7 +10,7 @@
 			<![CDATA[<p><strong>Alle Custom Items, die ich im Rahmen von der Kampagne 'Im Schatten des Raben' ausgebe oder verwende</strong></p>]]>
 		</description>
 		<setters>
-			<set name="abbreviation">CAMP</set>
+			<set name="abbreviation">RAB</set>
 			<set name="url">https://github.com/nemthe/dnd-campaign</set>
 			<set name="author" abbreviation="MARO">Max Rott</set>
 			<set name="official">false</set>
