@@ -9,7 +9,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign/sources.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign/source.xml" />
 		<file name="items.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign/items.xml" />
 	</files>
 </index>
