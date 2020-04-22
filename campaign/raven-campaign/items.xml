@@ -3,7 +3,7 @@
         <name>Items</name>
 		<author>Max Rott</author>
         <update version="1.0.0">
-            <file name="items.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/supplements/guildmasters-guide-to-ravnica/items.xml" />
+            <file name="items.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign/items.xml" />
         </update>
     </info>
 	<element name="Folding Raven Plate" type="Magic Item" source="Campaign Item" id="ID_FOLDING_PLATE">
