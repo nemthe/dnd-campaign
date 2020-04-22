@@ -9,6 +9,6 @@
 		</update>
 	</info>
 	<files>
-		<file name="raven-campaign.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign.xml" />
+		<file name="raven-campaign.xml" url="https://raw.githubusercontent.com/nemthe/dnd-campaign/master/campaign/raven-campaign.index" />
 	</files>
 </index>
